@@ -14,7 +14,7 @@
 
 ## Skills e Linguagens de Programação :
 
-<BR>
+<br>
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/abfx2001)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/abfx2001)
