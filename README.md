@@ -1,7 +1,7 @@
 
-### Bem Vindo!! Eu sou o Arthur Batista Furlan 👋
+# Hello! I'm Arthur Batista Furlan 👋
 
-<br>
+#### Contacts :
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurbfx2001)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-batista-furlan-2001/)
@@ -12,7 +12,7 @@
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=abfx2001&show_icons=true&theme=radical)
 
-## Skills e Linguagens de Programação :
+## Skills and Programming languages that i know :
 
 <br>
 
@@ -31,7 +31,7 @@
 
 <br>
 
-## Em aprendizado :
+## In learning :
 
 <br>
 
@@ -39,3 +39,10 @@
 [![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/abfx2001)
 [![Dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/abfx2001)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/abfx2001)
+
+<br>
+
+## Ubout Me :
+  I'm a young boy in this new world where knowledge is so relevant to ower lives, and the area of IT is so fascinating.<br>
+  I love the part of DEV. and continuing to learn new programming languages.<br>
+  My Git is so poor, but in the future will be filled with some new projects, waiting for my progress.
