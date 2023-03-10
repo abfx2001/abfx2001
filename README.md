@@ -10,7 +10,7 @@
 
 <br>
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=abfx2001&show_icons=true&theme=radical)
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=abfx2001&show_icons=true&theme=github_dark)
 
 ## Skills and Programming languages that i know :
 
@@ -24,10 +24,11 @@
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/abfx2001)
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/abfx2001)
 [![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/abfx2001)
+[![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/abfx2001)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abfx2001&layout=compact)](https://github.com/abfx2001/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abfx2001&layout=compact&theme=github_dark)](https://github.com/abfx2001/github-readme-stats)
 
 <br>
 
@@ -37,8 +38,12 @@
 
 [![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://github.com/abfx2001)
 [![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/abfx2001)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/abfx2001)
+[![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://github.com/abfx2001)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/abfx2001)
+[![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/abfx2001)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/abfx2001)
 [![Dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/abfx2001)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/abfx2001)
 
 <br>
 
